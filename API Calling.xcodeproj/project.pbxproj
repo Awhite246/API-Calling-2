@@ -11,6 +11,7 @@
 		3F026C5D28328610001D9C07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F026C5C28328610001D9C07 /* ContentView.swift */; };
 		3F026C5F28328625001D9C07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F026C5E28328625001D9C07 /* Assets.xcassets */; };
 		3F026C6228328625001D9C07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F026C6128328625001D9C07 /* Preview Assets.xcassets */; };
+		3F026C7028344F6D001D9C07 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F026C6F28344F6C001D9C07 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F026C5E28328625001D9C07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F026C6128328625001D9C07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F026C6328328625001D9C07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F026C6F28344F6C001D9C07 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../../../../Downloads/SwiftyJSON-master/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F026C5A28328610001D9C07 /* API_CallingApp.swift */,
 				3F026C5C28328610001D9C07 /* ContentView.swift */,
+				3F026C6F28344F6C001D9C07 /* SwiftyJSON.swift */,
 				3F026C5E28328625001D9C07 /* Assets.xcassets */,
 				3F026C6328328625001D9C07 /* Info.plist */,
 				3F026C6028328625001D9C07 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F026C7028344F6D001D9C07 /* SwiftyJSON.swift in Sources */,
 				3F026C5D28328610001D9C07 /* ContentView.swift in Sources */,
 				3F026C5B28328610001D9C07 /* API_CallingApp.swift in Sources */,
 			);
